@@ -1,0 +1,62 @@
+{
+    "D101": {
+        "doctor_id": "D101",
+        "name": "Dr. Sharma",
+        "department": "General Medicine",
+        "fee": 500
+    },
+    "D102": {
+        "doctor_id": "D102",
+        "name": "Dr. Patel",
+        "department": "Cardiology",
+        "fee": 800
+    },
+    "D103": {
+        "doctor_id": "D103",
+        "name": "Dr. Khan",
+        "department": "Orthopedic",
+        "fee": 700
+    },
+    "D104": {
+        "doctor_id": "D104",
+        "name": "Dr. Singh",
+        "department": "Dermatology",
+        "fee": 600
+    },
+    "D105": {
+        "doctor_id": "D105",
+        "name": "Dr. Mehta",
+        "department": "Dentist",
+        "fee": 400
+    },
+    "D106": {
+        "doctor_id": "D106",
+        "name": "Dr. Verma",
+        "department": "Neurology",
+        "fee": 900
+    },
+    "D107": {
+        "doctor_id": "D107",
+        "name": "Dr. Iyer",
+        "department": "Pediatrics",
+        "fee": 550
+    },
+    "D108": {
+        "doctor_id": "D108",
+        "name": "Dr. Gupta",
+        "department": "ENT",
+        "fee": 500
+    },
+    "D109": {
+        "doctor_id": "D109",
+        "name": "Dr. Reddy",
+        "department": "Ophthalmology",
+        "fee": 650
+    },
+    "D110": {
+        "doctor_id": "D110",
+        "name": "Dr. Nair",
+        "department": "Gynecology",
+        "fee": 750
+    }
+}

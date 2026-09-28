@@ -1,0 +1,38 @@
+{
+    "A1001": {
+        "appointment_id": "A1001",
+        "patient_id": "P1002",
+        "doctor_id": "D103",
+        "date": "2026-09-27",
+        "time": "04:30",
+        "token": 1,
+        "status": "Scheduled"
+    },
+    "A1002": {
+        "appointment_id": "A1002",
+        "patient_id": "P1003",
+        "doctor_id": "D110",
+        "date": "2026-10-05",
+        "time": "10:00",
+        "token": 1,
+        "status": "Cancelled"
+    },
+    "A1003": {
+        "appointment_id": "A1003",
+        "patient_id": "P1005",
+        "doctor_id": "D104",
+        "date": "2026-10-05",
+        "time": "15:30",
+        "token": 1,
+        "status": "Scheduled"
+    },
+    "A1004": {
+        "appointment_id": "A1004",
+        "patient_id": "P1006",
+        "doctor_id": "D110",
+        "date": "2026-10-05",
+        "time": "4:30",
+        "token": 2,
+        "status": "Scheduled"
+    }
+}

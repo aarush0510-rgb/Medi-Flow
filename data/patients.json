@@ -1,0 +1,44 @@
+{
+    "P1001": {
+        "patient_id": "P1001",
+        "name": "Aarush Bishnoi",
+        "age": 19,
+        "gender": "M",
+        "phone": "9910908397"
+    },
+    "P1002": {
+        "patient_id": "P1002",
+        "name": "Pranjal Gupta",
+        "age": 19,
+        "gender": "M",
+        "phone": "0987654321"
+    },
+    "P1003": {
+        "patient_id": "P1003",
+        "name": "Adarsh jha",
+        "age": 18,
+        "gender": "FemBoy",
+        "phone": "0987654321"
+    },
+    "P1004": {
+        "patient_id": "P1004",
+        "name": "JagChut Behra",
+        "age": 18,
+        "gender": "Trans",
+        "phone": "0987654321"
+    },
+    "P1005": {
+        "patient_id": "P1005",
+        "name": "Arsh Bhati",
+        "age": 90,
+        "gender": "Unknown",
+        "phone": "0987654321"
+    },
+    "P1006": {
+        "patient_id": "P1006",
+        "name": "Anna",
+        "age": 18,
+        "gender": "Trans but no Dick",
+        "phone": "0987654321"
+    }
+}
