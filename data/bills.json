@@ -1,9 +1,0 @@
-{
-    "B1001": {
-        "bill_id": "B1001",
-        "appointment_id": "A1001",
-        "patient_id": "P1002",
-        "amount": 700,
-        "status": "Unpaid"
-    }
-}
