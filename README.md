@@ -75,6 +75,7 @@ This project was developed as an individual college project to apply Python prog
 
 ## 4. Project Structure
 
+```
 Medi-Flow
 │
 ├── data
@@ -100,6 +101,9 @@ Medi-Flow
 ├── .gitignore
 ├── README.md
 └── statement.md
+```
+
+The JSON data files are stored locally and are not included in the GitHub repository because they are added to `.gitignore`.
 
 The JSON data files are stored locally and are not included in the GitHub repository because they are added to `.gitignore`.
 
